@@ -8,6 +8,7 @@ class ReggieTimeOutApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("真刺激！");
     }
 
 }
